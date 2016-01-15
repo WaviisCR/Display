@@ -1,0 +1,11 @@
+.caja {
+	background-color: yellow;
+	height: 100px;
+}
+.segundacaja {
+
+	border-style: solid;
+	border-width: 2px;
+	background-color: red;
+	height: 100px;
+}
